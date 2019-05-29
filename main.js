@@ -2,6 +2,7 @@
 // @name         GreaseMonkey - MochaTicket Theme Helper
 // @namespace    https://github.com/csdy/
 // @description  Applies CSS classes to MochaTicket used for theme hooks.
+// @author       David Cassidy <davidcassidy@gmail.com
 // @copyright    2019, David Cassidy. Some rights reserved.
 // @homepage     https://github.com/csdy/greasemonkey-mochaticket
 // @updateURL    https://raw.githubusercontent.com/csdy/greasemonkey-mochaticket/master/main.js
